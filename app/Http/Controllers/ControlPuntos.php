@@ -134,4 +134,8 @@ class ControlPuntos extends Controller
         $thm->save();
         return redirect()->route('puntos')->with('success', 'Dato añadido correctamente');
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e853b1b31568c777472d5e1ab893dc957ed98291

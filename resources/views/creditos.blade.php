@@ -38,4 +38,8 @@
   <img src="{{ asset('admin_assets/img/logunsa.png') }}" alt="Logo"style="width: 400px; height: auto;">
 </div>
   
+<<<<<<< HEAD
 @endsection
+=======
+@endsection
+>>>>>>> e853b1b31568c777472d5e1ab893dc957ed98291

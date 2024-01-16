@@ -45,7 +45,11 @@
             margin-left: 10px;
             padding: 10px 20px;
             text-decoration: none;
+<<<<<<< HEAD
             color: #0000FF;
+=======
+            color: #FEFEFE;
+>>>>>>> e853b1b31568c777472d5e1ab893dc957ed98291
             font-size: 1em;
             border: none;
             border-radius: 5px;
@@ -69,7 +73,11 @@
             width: 100%;
             background-color: rgba(0, 0, 0, 0.2);
             padding: 10px;
+<<<<<<< HEAD
             color: #0000FF;
+=======
+            color: #FEFEFE;
+>>>>>>> e853b1b31568c777472d5e1ab893dc957ed98291
             text-align: center;
         }
     </style>
@@ -93,4 +101,8 @@
         UNSA © Control de Valores de Temperatura y Humedad 2024
     </footer>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> e853b1b31568c777472d5e1ab893dc957ed98291

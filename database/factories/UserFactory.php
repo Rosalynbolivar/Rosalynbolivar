@@ -41,4 +41,8 @@ class UserFactory extends Factory
             'email_verified_at' => null,
         ]);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e853b1b31568c777472d5e1ab893dc957ed98291
